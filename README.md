@@ -1,13 +1,17 @@
 ## Table of Contents
 - [About Me](#about-me)
+- [How To Reach Me](#contact-me)
 - [My Skills](#my-skills)
 - [Contribution Graph](#contribution-graph)
 - [Streak](#streak)
-- [Contact Me](#contact-me)
 
 ## About Me
-<h1 align="center">Hi 👋, I'm Nafisa Maliyat</h1>
+<h1 align="center">Hello 👋, I'm Nafisa Maliyat</h1>
 <h3 align="center">I'm a student currently studying B.Sc. in Software Engineering in Islamic University of Technology.</h3>
+
+
+## How To Reach Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisamaliyat@iut-dhaka.edu)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-maliyat133/)[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nafisamaliyat)
 
 ## My Skills
 
@@ -41,6 +45,4 @@
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=NafisaMaliyat-iut&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
-## Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisamaliyat@iut-dhaka.edu)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisa-maliyat133/)
 
