@@ -7,7 +7,7 @@
 
 ## About Me
 <h1 align="center">Hello 👋, I'm Nafisa Maliyat</h1>
-<h3 align="center">I'm a student currently studying B.Sc. in Software Engineering in Islamic University of Technology.</h3>
+<h3 align="center">I'm a graduate student with B.Sc. in Software Engineering in Islamic University of Technology, currently working as a Lecturer in Military Institute of Technology (MIST) in the Department of Computer Science and Engineering.</h3>
 
 
 ## How To Reach Me
